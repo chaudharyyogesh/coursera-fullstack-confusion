@@ -36,3 +36,12 @@ body{
 .navbar-dark{
     background-color: rgb(50, 197, 148); /*must remove bg-primary*/
 }
+
+.tab-content{
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
